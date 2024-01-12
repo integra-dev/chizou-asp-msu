@@ -1,0 +1,6 @@
+flask
+flask-cors
+gekko
+matplotlib
+numpy
+scipy
